@@ -1,6 +1,6 @@
 # Tesla-GameStop-Stock/Revenue-Analysis
 ## Analyzing Historical Stock/Revenue Data and Building a Dashboard
-In this Project we will use yfinance and  Webscraping to extract the revenue data for Tesla from 2010 to 2022 and GameStop from 2006 to 2020  and build a dashboard to compare the price of the stock vs the revenue. Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. 
+In this Project we will use yfinance and  Webscraping to extract the revenue data for Tesla from 2010 to 2022 and GameStop from 2006 to 2020. Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. 
 - For Tesla stock data Webscraping Extraction we user the [webpage](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/revenue.htm)
 
 - For GameStop stock data Webscraping Extraction we user the [webpage](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html)
