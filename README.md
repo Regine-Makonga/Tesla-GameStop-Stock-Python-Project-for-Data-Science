@@ -5,15 +5,12 @@ In this Project we will use yfinance and  Webscraping to extract the revenue dat
 
 - For GameStop stock data Webscraping Extraction we user the [webpage](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html)
 ## Table of Contents
-- [Use of yfinance to Extract Tesla Stock Data](#Use-of-yfinance-to-Extract-Tesla-Stock-Data)
-- [Use of Webscraping to Extract Tesla Revenue Data](#Use-of-Webscraping-to-Extract-Tesla-Revenue-Data)
-- [Use of yfinance to Extract GME Stock Data](#Use-of-yfinance-to-Extract-GME-Stock-Data)
-- [Use of Webscraping to Extract GME Revenue Data](#Use-of-Webscraping-to-Extract-GME-Revenue-Data)
-- [Plot Tesla Stock Graph](#Plot-Tesla-Stock-Graph)
-- [Plot GameStop Stock Graph](#Plot-GameStop-Stock-Graph)
-- [Access the files](#access-the-files)
-- [References](#references)
-
+- Use of yfinance to Extract Tesla Stock Data
+- Use of Webscraping to Extract Tesla Revenue Data
+- Use of yfinance to Extract GME Stock Data
+- Use of Webscraping to Extract GME Revenue Data
+- Plot Tesla Stock Graph
+- Plot GameStop Stock Graph
 
 ## Access the files
  - To run the project, make sure you have installed  Python with pandas, yfinance, bs4, nbformat, requests, plotly for data extraction and data visualization.
