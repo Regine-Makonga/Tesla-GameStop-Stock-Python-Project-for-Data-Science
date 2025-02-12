@@ -11,6 +11,16 @@ In this Project we will use yfinance and  Webscraping to extract the revenue dat
 - Use of Webscraping to Extract GME Revenue Data
 - Plot Tesla Stock Graph
 - Plot GameStop Stock Graph
+  
+## Data Visualization
+
+  ### Historical Price/Revenue Tesla Data
+   
+   <img width="378" alt="Plot_Tesla" src="https://github.com/user-attachments/assets/12b7b526-bb3d-4ce0-949a-65adf9dd1f7f" />
+
+  ### Historical Price/Revenue GameStop Data
+
+<img width="391" alt="Plot_GME" src="https://github.com/user-attachments/assets/6710e152-49c1-47b6-9c93-9d91d5786950" />
 
 ## Access the files
  - To run the project, make sure you have installed  Python with pandas, yfinance, bs4, nbformat, requests, plotly for data extraction and data visualization.
