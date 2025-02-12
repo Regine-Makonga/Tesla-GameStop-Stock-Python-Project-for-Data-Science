@@ -17,7 +17,7 @@ In this Project we will use yfinance and  Webscraping to extract the revenue dat
 
 ## Access the files
  - To run the project, make sure you have installed  Python with pandas, yfinance, bs4, nbformat, requests, plotly for data extraction and data visualization.
- - Using yfinance and  Webscraping in python with jupyter notebook to perform data extraction. Follow the Inscription in the python file [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb) you can use it on python in jupyter notebook 
+ - Using yfinance and  Webscraping in python with jupyter notebook to perform data extraction. Follow the Inscription in the python file [Tesla & GameStop Project.ipynb](Tesla_GameStop_Project.ipynb) you can use it on python in jupyter notebook 
 
 ## Reference
 
